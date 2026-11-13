@@ -19,14 +19,14 @@
 | | Bản Mac | Bản online |
 |---|---|---|
 | Chạy ở đâu | Trên máy bạn, file không gửi đi đâu | Trình duyệt, file tự xóa khỏi máy chủ sau 3 phút không thao tác |
-| Miễn phí | Dùng thử 7 ngày | 3 file, mỗi file tới 5 MB; mời bạn bè được thêm lượt |
-| 1xPDF Pro | Dùng tiếp sau thời gian thử | Không giới hạn số file và cỡ file |
+| Miễn phí | Mở, sửa thoải mái; lưu được 3 file trên mỗi máy | Mở, sửa thoải mái; tải về 1 file mỗi ngày, tới 5 MB |
+| 1xPDF Pro | Lưu không giới hạn | Tải về không giới hạn, mọi cỡ file |
 
-1xPDF Pro: 99.000đ/năm hoặc 249.000đ trọn đời, thanh toán VietQR hoặc PayPal, mỗi key dùng trên 1 thiết bị. Chi tiết tại [1xag.com/pdf](https://1xag.com/pdf).
+1xPDF Pro: gói 24 giờ, 1 tháng, 1 năm, hoặc trọn đời cho app Mac; thanh toán VietQR hoặc PayPal, mỗi key dùng trên 1 thiết bị. Bảng giá tại [1xag.com/pdf](https://1xag.com/pdf).
 
 ## English
 
-**1xPDF** edits the text inside PDF files while keeping the embedded fonts, font size, colour and layout. Click a line, retype, press Enter. It never swaps fonts silently, and it leaves the file's metadata (Info, XMP, ID) untouched unless you approve a change. Runs as a Mac app (local, 7-day trial) or [online in the browser](https://xuanhieu.org/tool/pdf). Product page and pricing: [1xag.com/pdf/en](https://1xag.com/pdf/en).
+**1xPDF** edits the text inside PDF files while keeping the embedded fonts, font size, colour and layout. Click a line, retype, press Enter. It never swaps fonts silently, and it leaves the file's metadata (Info, XMP, ID) untouched unless you approve a change. Runs as a Mac app (local, 3 free files) or [online in the browser](https://xuanhieu.org/tool/pdf) (open and edit for free, 1 free download a day). Product page and pricing: [1xag.com/pdf/en](https://1xag.com/pdf/en).
 
 ---
 
